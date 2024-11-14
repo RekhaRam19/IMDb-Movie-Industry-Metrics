@@ -1,3 +1,9 @@
+To view the interactive Power BI dashboard, download the `.pbix` file from this repository:
+1. Click on the `IMDb Movie Industry Metrics.pbix` file.
+2. Select "Download" to save the file locally.
+3. Open the file using Power BI Desktop to explore the dashboard.
+
+
 **IMDb Movie Industry Metrics Dashboard**
 
 **Overview**
