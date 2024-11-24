@@ -13,7 +13,9 @@ This Power BI dashboard provides a comprehensive analysis of the movie industry,
 **Key Metrics**
 
 Average Box Office Sales: $30.32M
+
 Average IMDb Rating: 6.63
+
 Total Movies Analyzed: 5,258
 
 **Visualizations and Insights**
